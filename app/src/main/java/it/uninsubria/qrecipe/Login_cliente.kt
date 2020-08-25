@@ -2,7 +2,7 @@ package it.uninsubria.qrecipe
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
+//commit di prova
 class Login_cliente : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
